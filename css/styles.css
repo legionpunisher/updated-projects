@@ -3,17 +3,21 @@ h1 {
     text-align: center;
 }
 
-h2 {
-    color: green;
-    font-style: italic;
-    text-align: center;
-}
-
-p {
+p1 {
     font-family: sans-serif;
+    color: purple;
 }
 
-ul {
+ol {
+    color: green;
+    box-align: center;
+}
+
+ur {
     line-height: 40px;
-    color: red;
+    color: violet;
+}
+
+body {
+    background-color: aqua;
 }
