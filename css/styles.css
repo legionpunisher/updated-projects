@@ -1,23 +1,6 @@
-h1 {
-    color: blue;
-    text-align: center;
-}
-
-p1 {
-    font-family: sans-serif;
-    color: purple;
-}
-
-ol {
-    color: green;
-    box-align: center;
-}
-
-ur {
-    line-height: 40px;
-    color: violet;
-}
-
-body {
-    background-color: aqua;
+.the-book {
+    border: 2px solid red;
+    padding: 6px;
+    margin: 20px;
+    background-color: yellow;
 }
